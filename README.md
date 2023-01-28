@@ -31,5 +31,5 @@
 
 <h1 align="center">Github Stats</h1>
   <div align="center" >
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengchzn&show_icons=true&locale=en&layout=compact" alt="pengchzn">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengchzn&" alt="pengchzn" /></p>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengchzn&show_icons=true&locale=en&layout=compact" alt="pengchzn"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pengchzn&show_icons=true" alt="pengchzn"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengchzn&" alt="pengchzn" /></p>
   </div>

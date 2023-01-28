@@ -1,7 +1,8 @@
 [![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)](https://github.com/pengchzn)
 <h1 align="center">Hi 👋, I'm Chen Peng</h1>
 <h3 align="center">An undergraduate student with a thirst for knowledge from China</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+<a href="https://app.daily.dev/pengchen"><img align="right" src="https://api.daily.dev/devcards/39584a52ad674b85a3465781e6792251.png?r=rls" width="400" alt="Peng Chen's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pengchzn&label=Profile%20views&color=0e75b6&style=flat" alt="pengchzn" /> </p>
 

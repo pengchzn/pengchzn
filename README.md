@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chen Peng</h1>
 <h3 align="center">An undergraduate student with a thirst for knowledge from China</h3>
 
-<a href="https://app.daily.dev/pengchen"><img align="right" src="https://api.daily.dev/devcards/39584a52ad674b85a3465781e6792251.png?r=rls" width="400" alt="Peng Chen's Dev Card"/></a>
+<a href="https://app.daily.dev/pengchen"><img align="right" src="https://github.com/pengchzn/pengchzn/blob/main/devcard.svg" width="400" alt="Peng Chen's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pengchzn&label=Profile%20views&color=0e75b6&style=flat" alt="pengchzn" /> </p>
 
@@ -31,5 +31,5 @@
 
 <h1 align="center">Github Stats</h1>
   <div align="center" >
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengchzn&show_icons=true&locale=en&layout=compact" alt="pengchzn"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pengchzn&show_icons=true&locale=en" alt="pengchzn"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengchzn&" alt="pengchzn" /></p>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pengchzn&show_icons=true&locale=en&layout=compact" alt="pengchzn">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pengchzn&" alt="pengchzn" /></p>
   </div>

@@ -52,13 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 

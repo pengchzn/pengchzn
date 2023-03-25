@@ -52,14 +52,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   99.66% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
